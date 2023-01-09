@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout-finger/instructions.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/activity_sound_map.xml" value="0.1" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/compose.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/instructions.xml" value="0.16" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/landing_page.xml" value="0.22" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/menu.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/layout/results.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/menu/instructions.xml" value="0.1" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/menu/menu_about.xml" value="0.1" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/menu/menu_compose.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/menu/menu_instructions.xml" value="0.2" />
+        <entry key="..\:/Users/Neomi/Documents/neomi/School/EECS1022/Melodiam/app/src/main/res/menu/menu_landing_page.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

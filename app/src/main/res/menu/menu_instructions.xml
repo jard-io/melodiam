@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.yorku.melodiam.Instructions">
+
+    <!--action bar item for back button-->
+    <item
+        android:title="@string/back"
+        android:id="@+id/action_back"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_back"
+        app:showAsAction="always"/>
+
+    <!--action bar item for about-->
+    <item
+        android:title="@string/about"
+        android:id="@+id/action_about"
+        android:orderInCategory="500"
+        app:showAsAction="never"/>
+
+    <!--action bar item for compose-->
+    <item
+        android:title="@string/compose"
+        android:id="@+id/action_compose"
+        android:orderInCategory="200"
+        app:showAsAction="never"/>
+
+</menu>

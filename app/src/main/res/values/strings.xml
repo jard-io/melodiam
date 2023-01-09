@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Melodiam</string>
+    <string name="melodiam_logo">Melodiam logo</string>
+    <string name="play_button">Play Melody!</string>
+    <string name="map_sounds">MAP SOUNDS</string>
+    <string name="compose">Compose</string>
+    <string name="back">Back</string>
+    <string name="results">Results</string>
+    <string name="compose_your_message_here">Compose your message here</string>
+    <string name="save_to_device">Save to Device</string>
+    <string name="help_button_by_icons8">help button by icons8</string>
+    <string name="message_appears_here">Message appears here</string>
+    <string name="inst_title">Instructions</string>
+    <string name="save_button">save song to phone</string>
+    <string name="result_title">Results</string>
+    <string name="help">instructions button</string>
+    <string name="close">close</string>
+    <string name="instructions1">On the compose page enter your text in the designated box. Currently only English alphabet letters are supported.</string>
+    <string name="instructions2">Tap the \"Play Melody!\" button to hear your automatically generated song.</string>
+    <string name="instructions3">Tap \"Save to Device\" in order to save your new song, or enter something new in the input box to start again.</string>
+    <string name="about">about</string>
+    <string name="settings">settings</string>
+    <string name="start_button">Tap to Enter</string>
+    <string name="no_text_error">No text written :^(</string>
+</resources>
